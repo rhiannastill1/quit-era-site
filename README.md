@@ -1,7 +1,7 @@
 # Quit Era website
 
 The public website for the Quit Era app, hosted free with GitHub Pages:
-https://rhiannastill1.github.io/quit-era-site/
+https://www.quiteraapp.com
 
 - `privacy.html`: privacy policy (App Store "Privacy Policy URL")
 - `support.html`: help and contact (App Store "Support URL")
