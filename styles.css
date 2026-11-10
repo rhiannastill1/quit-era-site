@@ -176,3 +176,20 @@ footer a { color: var(--muted); }
   .ring .arc { animation: fill 1.4s ease-out both; }
   @keyframes fill { from { stroke-dashoffset: 289; } }
 }
+
+.store-btn {
+  justify-self: start;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  background: var(--accent);
+  color: var(--accent-ink);
+  font-weight: 700;
+  font-size: 18px;
+  text-decoration: none;
+  padding: 14px 24px;
+  border-radius: 999px;
+  box-shadow: 0 10px 24px rgba(106, 44, 240, 0.28);
+}
+.store-btn:hover { filter: brightness(1.08); }
+.store-btn:focus-visible { outline: 3px solid var(--pop); outline-offset: 3px; }
